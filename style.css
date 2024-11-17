@@ -1,0 +1,17 @@
+header {
+    background-color: rgb(167, 247, 247);
+}
+
+a {
+    color: black !important;
+
+
+}
+
+section {
+    height: 80vh;
+}
+footer {
+    background-color: rgb(167, 247, 247); 
+    height: 11vh;
+}
