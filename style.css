@@ -4,8 +4,6 @@ header {
 
 a {
     color: black !important;
-
-
 }
 
 section {
@@ -13,5 +11,5 @@ section {
 }
 footer {
     background-color: rgb(167, 247, 247); 
-    height: 11vh;
+    padding: 2% 1%
 }
